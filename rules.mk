@@ -1,1 +1,8 @@
 SRC += source.c
+
+INTROSPECTION_KEYMAP_C = thrly.c
+
+CAPS_WORD_ENABLE = yes
+
+POINTING_DEVICE_ENABLE = yes
+COMBO_ENABLE = yes

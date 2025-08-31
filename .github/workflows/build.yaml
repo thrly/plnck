@@ -10,7 +10,7 @@ jobs:
       matrix:
         # List of keymap json files to build
         file:
-          - thrly-planck-keymap.json
+          - planck.json
     # End of json file list
 
     steps:
